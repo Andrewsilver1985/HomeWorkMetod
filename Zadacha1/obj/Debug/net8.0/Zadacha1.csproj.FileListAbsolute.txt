@@ -1,0 +1,14 @@
+D:\Geek\HomeWorkMetod\Zadacha1\bin\Debug\net8.0\Zadacha1.exe
+D:\Geek\HomeWorkMetod\Zadacha1\bin\Debug\net8.0\Zadacha1.deps.json
+D:\Geek\HomeWorkMetod\Zadacha1\bin\Debug\net8.0\Zadacha1.runtimeconfig.json
+D:\Geek\HomeWorkMetod\Zadacha1\bin\Debug\net8.0\Zadacha1.dll
+D:\Geek\HomeWorkMetod\Zadacha1\bin\Debug\net8.0\Zadacha1.pdb
+D:\Geek\HomeWorkMetod\Zadacha1\obj\Debug\net8.0\Zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\HomeWorkMetod\Zadacha1\obj\Debug\net8.0\Zadacha1.AssemblyInfoInputs.cache
+D:\Geek\HomeWorkMetod\Zadacha1\obj\Debug\net8.0\Zadacha1.AssemblyInfo.cs
+D:\Geek\HomeWorkMetod\Zadacha1\obj\Debug\net8.0\Zadacha1.csproj.CoreCompileInputs.cache
+D:\Geek\HomeWorkMetod\Zadacha1\obj\Debug\net8.0\Zadacha1.dll
+D:\Geek\HomeWorkMetod\Zadacha1\obj\Debug\net8.0\refint\Zadacha1.dll
+D:\Geek\HomeWorkMetod\Zadacha1\obj\Debug\net8.0\Zadacha1.pdb
+D:\Geek\HomeWorkMetod\Zadacha1\obj\Debug\net8.0\Zadacha1.genruntimeconfig.cache
+D:\Geek\HomeWorkMetod\Zadacha1\obj\Debug\net8.0\ref\Zadacha1.dll
